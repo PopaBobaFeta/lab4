@@ -1,0 +1,46 @@
+C:\Users\bakyt\source\repos\SignalRWebPack\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\bakyt\source\repos\SignalRWebPack\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\bakyt\source\repos\SignalRWebPack\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+C:\Users\bakyt\source\repos\SignalRWebPack\bin\Debug\netcoreapp3.1\SignalRWebPack.exe
+C:\Users\bakyt\source\repos\SignalRWebPack\obj\Debug\netcoreapp3.1\SignalRWebPack.csprojAssemblyReference.cache
+C:\Users\bakyt\source\repos\SignalRWebPack\obj\Debug\netcoreapp3.1\SignalRWebPack.AssemblyInfoInputs.cache
+C:\Users\bakyt\source\repos\SignalRWebPack\obj\Debug\netcoreapp3.1\SignalRWebPack.AssemblyInfo.cs
+C:\Users\bakyt\source\repos\SignalRWebPack\obj\Debug\netcoreapp3.1\SignalRWebPack.RazorTargetAssemblyInfo.cache
+C:\Users\bakyt\source\repos\SignalRWebPack\obj\Debug\netcoreapp3.1\staticwebassets\SignalRWebPack.StaticWebAssets.Manifest.cache
+C:\Users\bakyt\source\repos\SignalRWebPack\obj\Debug\netcoreapp3.1\staticwebassets\SignalRWebPack.StaticWebAssets.xml
+C:\Users\bakyt\source\repos\SignalRWebPack\bin\Debug\netcoreapp3.1\package-lock.json
+C:\Users\bakyt\source\repos\SignalRWebPack\bin\Debug\netcoreapp3.1\package.json
+C:\Users\bakyt\source\repos\SignalRWebPack\bin\Debug\netcoreapp3.1\src\tsconfig.json
+C:\Users\bakyt\source\repos\SignalRWebPack\bin\Debug\netcoreapp3.1\SignalRWebPack.deps.json
+C:\Users\bakyt\source\repos\SignalRWebPack\bin\Debug\netcoreapp3.1\SignalRWebPack.runtimeconfig.json
+C:\Users\bakyt\source\repos\SignalRWebPack\bin\Debug\netcoreapp3.1\SignalRWebPack.runtimeconfig.dev.json
+C:\Users\bakyt\source\repos\SignalRWebPack\bin\Debug\netcoreapp3.1\SignalRWebPack.dll
+C:\Users\bakyt\source\repos\SignalRWebPack\bin\Debug\netcoreapp3.1\SignalRWebPack.pdb
+C:\Users\bakyt\source\repos\SignalRWebPack\obj\Debug\netcoreapp3.1\SignalRWebPack.csproj.CoreCompileInputs.cache
+C:\Users\bakyt\source\repos\SignalRWebPack\obj\Debug\netcoreapp3.1\SignalRWebPack.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\bakyt\source\repos\SignalRWebPack\obj\Debug\netcoreapp3.1\SignalRWebPack.dll
+C:\Users\bakyt\source\repos\SignalRWebPack\obj\Debug\netcoreapp3.1\SignalRWebPack.pdb
+C:\Users\bakyt\source\repos\SignalRWebPack\obj\Debug\netcoreapp3.1\SignalRWebPack.genruntimeconfig.cache
+D:\Working files\dotNet\lab4\SignalRWebPack-main\bin\Debug\netcoreapp3.1\appsettings.Development.json
+D:\Working files\dotNet\lab4\SignalRWebPack-main\bin\Debug\netcoreapp3.1\appsettings.json
+D:\Working files\dotNet\lab4\SignalRWebPack-main\bin\Debug\netcoreapp3.1\package-lock.json
+D:\Working files\dotNet\lab4\SignalRWebPack-main\bin\Debug\netcoreapp3.1\package.json
+D:\Working files\dotNet\lab4\SignalRWebPack-main\bin\Debug\netcoreapp3.1\Properties\launchSettings.json
+D:\Working files\dotNet\lab4\SignalRWebPack-main\bin\Debug\netcoreapp3.1\src\tsconfig.json
+D:\Working files\dotNet\lab4\SignalRWebPack-main\bin\Debug\netcoreapp3.1\SignalRWebPack.exe
+D:\Working files\dotNet\lab4\SignalRWebPack-main\bin\Debug\netcoreapp3.1\SignalRWebPack.deps.json
+D:\Working files\dotNet\lab4\SignalRWebPack-main\bin\Debug\netcoreapp3.1\SignalRWebPack.runtimeconfig.json
+D:\Working files\dotNet\lab4\SignalRWebPack-main\bin\Debug\netcoreapp3.1\SignalRWebPack.runtimeconfig.dev.json
+D:\Working files\dotNet\lab4\SignalRWebPack-main\bin\Debug\netcoreapp3.1\SignalRWebPack.dll
+D:\Working files\dotNet\lab4\SignalRWebPack-main\bin\Debug\netcoreapp3.1\SignalRWebPack.pdb
+D:\Working files\dotNet\lab4\SignalRWebPack-main\obj\Debug\netcoreapp3.1\SignalRWebPack.csprojAssemblyReference.cache
+D:\Working files\dotNet\lab4\SignalRWebPack-main\obj\Debug\netcoreapp3.1\SignalRWebPack.AssemblyInfoInputs.cache
+D:\Working files\dotNet\lab4\SignalRWebPack-main\obj\Debug\netcoreapp3.1\SignalRWebPack.AssemblyInfo.cs
+D:\Working files\dotNet\lab4\SignalRWebPack-main\obj\Debug\netcoreapp3.1\SignalRWebPack.csproj.CoreCompileInputs.cache
+D:\Working files\dotNet\lab4\SignalRWebPack-main\obj\Debug\netcoreapp3.1\SignalRWebPack.MvcApplicationPartsAssemblyInfo.cache
+D:\Working files\dotNet\lab4\SignalRWebPack-main\obj\Debug\netcoreapp3.1\SignalRWebPack.RazorTargetAssemblyInfo.cache
+D:\Working files\dotNet\lab4\SignalRWebPack-main\obj\Debug\netcoreapp3.1\staticwebassets\SignalRWebPack.StaticWebAssets.Manifest.cache
+D:\Working files\dotNet\lab4\SignalRWebPack-main\obj\Debug\netcoreapp3.1\staticwebassets\SignalRWebPack.StaticWebAssets.xml
+D:\Working files\dotNet\lab4\SignalRWebPack-main\obj\Debug\netcoreapp3.1\SignalRWebPack.dll
+D:\Working files\dotNet\lab4\SignalRWebPack-main\obj\Debug\netcoreapp3.1\SignalRWebPack.pdb
+D:\Working files\dotNet\lab4\SignalRWebPack-main\obj\Debug\netcoreapp3.1\SignalRWebPack.genruntimeconfig.cache
